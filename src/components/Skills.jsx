@@ -20,7 +20,7 @@ const Skills = () => {
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
-                <img src={Html} width='64px' height='64px' alt='/' loading="lazy"/>
+                <img src={Html} width='64px' height='64px' alt='/'/>
               </div>
               <div className='flex flex-col items-center justify-center'>
                 <h3>HTML</h3>
@@ -30,7 +30,7 @@ const Skills = () => {
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
-                <img src={Css} width='64px' height='64px' alt='/' loading="lazy"/>
+                <img src={Css} width='64px' height='64px' alt='/'/>
               </div>
               <div className='flex flex-col items-center justify-center'>
                 <h3>CSS</h3>
@@ -40,7 +40,7 @@ const Skills = () => {
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
-                <img src={Javascript} width='64px' height='64px' alt='/' loading="lazy"/>
+                <img src={Javascript} width='64px' height='64px' alt='/'/>
               </div>
               <div className='flex flex-col items-center justify-center'>
                 <h3>JavaScript</h3>
@@ -50,7 +50,7 @@ const Skills = () => {
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
-                <img src={ReactImg} width='64px' height='64px' alt='/' loading="lazy"/>
+                <img src={ReactImg} width='64px' height='64px' alt='/'/>
               </div>
               <div className='flex flex-col items-center justify-center'>
                 <h3>React</h3>
@@ -60,7 +60,7 @@ const Skills = () => {
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
-                <img src={Tailwind} width='64px' height='64px' alt='/' loading="lazy"/>
+                <img src={Tailwind} width='64px' height='64px' alt='/'/>
               </div>
               <div className='flex flex-col items-center justify-center'>
                 <h3>Tailwind</h3>
@@ -70,7 +70,7 @@ const Skills = () => {
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
-                <img src={Sanity} width='64px' height='64px' alt='/' loading="lazy"/>
+                <img src={Sanity} width='64px' height='64px' alt='/'/>
               </div>
               <div className='flex flex-col items-center justify-center'>
                 <h3>Sanity</h3>
@@ -80,7 +80,7 @@ const Skills = () => {
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
-                <img src={Github} width='64px' height='64px' alt='/' loading="lazy"/>
+                <img src={Github} width='64px' height='64px' alt='/'/>
               </div>
               <div className='flex flex-col items-center justify-center'>
                 <h3>Github</h3>
@@ -90,7 +90,7 @@ const Skills = () => {
           <div className='p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300'>
             <div className='grid grid-cols-2 gap-4 justify-center items-center'>
               <div className='m-auto'>
-                <img src={NextJS} width='64px' height='64px' alt='/' loading="lazy"/>
+                <img src={NextJS} width='64px' height='64px' alt='/'/>
               </div>
               <div className='flex flex-col items-center justify-center'>
                 <h3>Next</h3>

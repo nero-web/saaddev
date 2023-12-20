@@ -33,7 +33,7 @@ const About = () => {
           </ScrollLink>
         </div>
         <div className='w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>
-          <img src={about} className='rounded-xl' alt='/' loading="lazy" width='auto' height='auto'/>
+          <img src={about} className='rounded-xl' alt='/' width='auto' height='auto'/>
         </div>
       </div>
     </div>

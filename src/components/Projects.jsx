@@ -78,7 +78,7 @@ const Projects = () => {
           <motion.div className='item md:w-[80%] w-full lg:h-[25rem] h-[35rem] flex justify-between lg:flex-row flex-col p-[1.2rem] bg-white rounded-lg gap-8 shadowbox mb-10' initial={{ opacity: 0, x: '100'}} animate={controls1} transition={{ duration: 1.6 }} ref={ref1}>
             <div className='rounded-lg lg:w-[53rem] w-auto h-auto shadowbox overflow-hidden trans'>
               <a href='https://saadelmasrour.github.io/car-rental-web/' target="_blank" rel="noreferrer">
-                <img src={car_rental} alt='' className="" loading="lazy"/>
+                <img src={car_rental} alt='' className=""/>
               </a>
             </div>
             <div className="lg:w-[30rem] w-auto h-auto flex justify-center">
@@ -167,7 +167,7 @@ const Projects = () => {
             </div>
             <div className='rounded-lg lg:w-[53rem] w-auto h-auto shadowbox overflow-hidden'>
               <a href='https://saadelmasrour.github.io/Photography-App/' target="_blank" rel="noreferrer">
-                <img src={photography} alt='' className="" loading="lazy"/>
+                <img src={photography} alt='' className=""/>
               </a>
             </div>
           </motion.div>
@@ -176,7 +176,7 @@ const Projects = () => {
           <motion.div className='item md:w-[80%] w-full lg:h-[25rem] h-[35rem] flex justify-between lg:flex-row flex-col p-[1.2rem] bg-white rounded-lg gap-8 shadowbox mb-10' initial={{ opacity: 0, x: "100"}} animate={controls3} transition={{ duration: 1.6 }} ref={ref3}>
             <div className='rounded-lg lg:w-[53rem] w-auto h-auto shadowbox overflow-hidden trans imgdiv'>
               <a href='https://ecommerce-website-contentful.vercel.app/' target="_blank" rel="noreferrer">
-                <img src={ecommerce} alt='' className="" loading="lazy"/>
+                <img src={ecommerce} alt='' className=""/>
               </a>
             </div>
             <div className="lg:w-[30rem] w-auto h-auto flex justify-center detdiv">
@@ -264,7 +264,7 @@ const Projects = () => {
             </div>
             <div className='rounded-lg lg:w-[53rem] w-auto h-auto shadowbox overflow-hidden trans'>
               <a href='https://saadelmasrour.github.io/fitness-website/' target="_blank" rel="noreferrer">
-                <img src={fitness} alt='' className="" loading="lazy"/>
+                <img src={fitness} alt='' className=""/>
               </a>
             </div>
           </motion.div>
@@ -273,7 +273,7 @@ const Projects = () => {
           <motion.div className='item md:w-[80%] w-full lg:h-[25rem] h-[35rem] flex justify-between lg:flex-row flex-col p-[1.2rem] bg-white rounded-lg gap-8 shadowbox mb-10' initial={{ opacity: 0, x: '100'}} animate={controls5} transition={{ duration: 1.6 }} ref={ref5}>
             <div className='rounded-lg lg:w-[53rem] w-auto h-auto shadowbox overflow-hidden'>
               <a href='https://ecommerce-shopping-nu.vercel.app/' target="_blank" rel="noreferrer">
-                <img src={ecommerceshop} alt='' className="" loading="lazy"/>
+                <img src={ecommerceshop} alt='' className=""/>
               </a>
             </div>
             <div className="lg:w-[30rem] w-auto h-auto flex justify-center">
