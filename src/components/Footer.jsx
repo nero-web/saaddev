@@ -25,7 +25,7 @@ const Footer = () => {
                     <div className="flex flex-col text-lg font-semibold">
                     <p className="mb-3">MY SOCIAL MEDIA</p>
                     <div className="gap-x-4 items-center flex justify-center">
-                        <a href="https://www.instagram.com/saad_el_masrour/" className="max-w-full inline-block" target='_blank' rel='noreferrer'>
+                        <a href="https://www.instagram.com/saad_webdeveloper/" className="max-w-full inline-block" target='_blank' rel='noreferrer'>
                         <FaInstagram size={25}/>
                         </a>
                         <a href="https://twitter.com/SaadElmasrour" className="max-w-full inline-block" target='_blank' rel='noreferrer'>
