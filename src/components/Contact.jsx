@@ -51,7 +51,7 @@ const Contact = () => {
                   className='lg:w-[45%] w-auto'>
                   <div className='flex flex-row text-gray-500 items-center gap-5 h-auto text-xl font-bold'>
                     <div className=' bg-gray-500 text-white rounded-full'>
-                      <a href="https://www.instagram.com/saad_el_masrour/" target='_blank' rel='noreferrer'>
+                      <a href="https://www.instagram.com/saad_webdeveloper/" target='_blank' rel='noreferrer'>
                       <FaInstagram size={30} className='m-4' />
                       </a>
                     </div>

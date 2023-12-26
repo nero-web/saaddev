@@ -76,7 +76,7 @@ const Hero = () => {
                 <FaLinkedinIn />
               </div>
             </a>
-            <a href='https://www.instagram.com/saad_el_masrour/' target='_blank' rel='noreferrer'>
+            <a href='https://www.instagram.com/saad_webdeveloper/' target='_blank' rel='noreferrer'>
               <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
                 <FaInstagram/>
               </div>

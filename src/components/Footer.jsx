@@ -14,7 +14,7 @@ const Footer = () => {
                     <div className="font-semibold md:mb-5 mb-5 flex flex-col md:items-start items-center text-lg">
                         <div className="flex flex-row items-center mb-2">
                             <IoMailOutline size={25}/>
-                            <a href="mailto:saadelmasrour21@gmail.com" className="ml-2">saadelmasrour26@gmail.com</a>
+                            <a href="mailto:saadelmasrour21@gmail.com" className="ml-2">saadelmasrour21@gmail.com</a>
                         </div>
                         <div className="flex flex-row items-center mb-2">
                             <TbPhoneCall size={25}/>

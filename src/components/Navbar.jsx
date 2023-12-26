@@ -161,7 +161,7 @@ const Navbar = () => {
                   </div>
                 </a>
                 <a
-                  href='https://www.instagram.com/saad_el_masrour/'
+                  href='https://www.instagram.com/saad_webdeveloper/'
                   target='_blank'
                   rel='noreferrer'
                 >
