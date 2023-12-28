@@ -16,10 +16,6 @@ const Footer = () => {
                             <IoMailOutline size={25}/>
                             <a href="mailto:saadelmasrour21@gmail.com" className="ml-2">saadelmasrour21@gmail.com</a>
                         </div>
-                        {/* <div className="flex flex-row items-center mb-2">
-                            <TbPhoneCall size={25}/>
-                            <p className="ml-2">+212772248889</p>
-                        </div> */}
                         <div className="text-center">© Copyright By Saad El Masrour.</div>
                     </div>
                     <div className="flex flex-col text-lg font-semibold">
