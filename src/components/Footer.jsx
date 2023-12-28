@@ -1,5 +1,4 @@
 import React from "react";
-import { TbPhoneCall } from "react-icons/tb";
 import { IoMailOutline } from "react-icons/io5";
 import { AiOutlineMail } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
