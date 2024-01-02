@@ -101,7 +101,7 @@ const Projects = () => {
               </div>
               <a
                 className='flex items-center mt-[2rem] flex-row justify-evenly gap-3'
-                href='https://saadelmasrour.github.io/car-rental-web/'
+                href='https://car-rental-web-phi.vercel.app/'
                 target="_blank" rel="noreferrer">
                 <div className='gap-1'>Live Demo</div>
                 <svg
