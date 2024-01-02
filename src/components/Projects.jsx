@@ -77,7 +77,7 @@ const Projects = () => {
         <div className='w-full lg:h-auto py-7 flex items-center flex-col'>
           <motion.div className='item md:w-[80%] w-full lg:h-[25rem] h-[35rem] flex justify-between lg:flex-row flex-col p-[1.2rem] bg-white rounded-lg gap-8 shadowbox mb-10' initial={{ opacity: 0, x: '100'}} animate={controls1} transition={{ duration: 1.6 }} ref={ref1}>
             <div className='rounded-lg lg:w-[53rem] w-auto h-auto shadowbox overflow-hidden trans'>
-              <a href='https://saadelmasrour.github.io/car-rental-web/' target="_blank" rel="noreferrer">
+              <a href='https://car-rental-web-phi.vercel.app/' target="_blank" rel="noreferrer">
                 <img src={car_rental} alt='' className=""/>
               </a>
             </div>
@@ -144,7 +144,7 @@ const Projects = () => {
               </div>
               <a
                 className='flex items-center mt-[2rem] flex-row justify-evenly gap-3'
-                href='https://saadelmasrour.github.io/Photography-App/'
+                href='https://photography-app-blue.vercel.app/'
                 target="_blank" rel="noreferrer">
                 <div className='gap-1'>Live Demo</div>
                 <svg
@@ -166,7 +166,7 @@ const Projects = () => {
             </div>
             </div>
             <div className='rounded-lg lg:w-[53rem] w-auto h-auto shadowbox overflow-hidden'>
-              <a href='https://saadelmasrour.github.io/Photography-App/' target="_blank" rel="noreferrer">
+              <a href='https://photography-app-blue.vercel.app/' target="_blank" rel="noreferrer">
                 <img src={photography} alt='' className=""/>
               </a>
             </div>
@@ -241,7 +241,7 @@ const Projects = () => {
               </div>
               <a
                 className='flex items-center mt-[2rem] flex-row justify-evenly gap-3'
-                href='https://saadelmasrour.github.io/fitness-website/'
+                href='https://fitness-website-zeta-six.vercel.app/'
                 target="_blank" rel="noreferrer">
                 <div className='gap-1'>Live Demo</div>
                 <svg
@@ -263,7 +263,7 @@ const Projects = () => {
             </div>
             </div>
             <div className='rounded-lg lg:w-[53rem] w-auto h-auto shadowbox overflow-hidden trans'>
-              <a href='https://saadelmasrour.github.io/fitness-website/' target="_blank" rel="noreferrer">
+              <a href='https://fitness-website-zeta-six.vercel.app/' target="_blank" rel="noreferrer">
                 <img src={fitness} alt='' className=""/>
               </a>
             </div>
